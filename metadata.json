@@ -1,0 +1,5 @@
+{
+  "name": "AutoSpec RAG",
+  "description": "An end-to-end RAG pipeline for global car specifications with streaming responses.",
+  "requestFramePermissions": []
+}
